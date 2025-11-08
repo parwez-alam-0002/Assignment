@@ -1,3 +1,15 @@
+'''
+Create Class Car
+
+with attributes: brand, model and mialeage
+add methods:
+start()
+stop()
+display_info()
+add constructor which inialize all attributes
+make usage
+'''
+
 class Car:
     def __init__(self,brand,model,millage):
         self.brand=brand
