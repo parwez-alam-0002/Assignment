@@ -1,3 +1,13 @@
+'''
+create class Server with variables serverId and IPAddress.
+status and memory_usage variable needs to declare default (no need to take this values as parameter of constructor)
+
+create method for start, stop, restart and update_status
+
+Usage: create 2 objects for server1 and server2 and try to use
+
+methods and variables created
+'''
 class Server:
     def __init__(self,serverId,ipAddress):
         self.serverId=serverId
