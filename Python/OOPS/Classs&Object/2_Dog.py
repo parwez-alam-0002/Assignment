@@ -1,3 +1,14 @@
+'''
+Create class called Dog with some attributes like name and breed.
+
+add property called is sleeping
+
+create constructor
+
+add some functions
+
+Usage: create 2,3 objects and use the class attributes and methods.
+'''
 class Dog:
     def __init__(self,name,breed,property):
         self.name=name
