@@ -1,3 +1,14 @@
+'''
+Shopping Cart Class
+
+create class ShoppingCart
+that allows adding and removing items (use a list)
+methods:
+addItem(item)
+removeItem(item)
+view cart() # iterate list
+calculate total amount (based on items)
+'''
 class ShoppingCart:
     def __init__(self,name):
         self.name=name
