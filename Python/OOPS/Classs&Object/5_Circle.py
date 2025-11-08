@@ -1,4 +1,9 @@
-# Create class Circle with attribute radius
+'''
+Create class Circle with attribute radius
+
+add methods area() and circumference()
+use math module for pi value
+'''
 from math import pi
 class Circle:
     def __init__(self, radius):
